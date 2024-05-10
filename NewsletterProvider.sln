@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsletterProvider", "NewsletterProvider\NewsletterProvider.csproj", "{FAB9A71F-CAD1-4804-AC8B-A4C07754AC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C8B756F4-79E2-43FB-8770-A220131C8D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB9A71F-CAD1-4804-AC8B-A4C07754AC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB9A71F-CAD1-4804-AC8B-A4C07754AC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB9A71F-CAD1-4804-AC8B-A4C07754AC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB9A71F-CAD1-4804-AC8B-A4C07754AC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B756F4-79E2-43FB-8770-A220131C8D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B756F4-79E2-43FB-8770-A220131C8D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B756F4-79E2-43FB-8770-A220131C8D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B756F4-79E2-43FB-8770-A220131C8D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB8174B6-CA1F-4D29-8562-D5C4CD974CD1}
+	EndGlobalSection
+EndGlobal
