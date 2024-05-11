@@ -42,5 +42,5 @@ namespace NewsletterProvider.Functions
             return new BadRequestObjectResult(new { Status = 400, Message = "Unable to unsubscribe right now." });
         }
     }
-    }
-}
+ }
+
